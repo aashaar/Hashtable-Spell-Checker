@@ -20,6 +20,5 @@
 		>> Enter any word from the hashtable (ex.- permit, mark, portrait) 
 		>> It'll display the index of the word if it is present or else display a message saying "Word not found".
 		>> To quit type "quit()"
-
 	2] Run "Hashing_Quadratic_Probing.java"
 		>> Repeat all the steps mentioned above for Linear Probing.
