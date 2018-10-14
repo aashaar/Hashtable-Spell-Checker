@@ -14,7 +14,7 @@
 
 >> Steps of execution :
 	>> Run "Hashing_Linear_Probing.java"
-	>> The program will ask to provide the path to wordlist.txt --> (E:\CS 5343\Assignments\Assingment 06\SpellChecker HashTable\src\wordlist.txt)
+	>> The program will ask to provide the path to "wordlist.txt" file.
 	>> It will insert the 100 words and the 10 additional words as per the requirement. Display indexes, collisions and rehash if required.
 	>> It will then ask you for a word to be searched.
 	>> Enter any word from the hashtable (ex.- permit, mark, portrait) 
