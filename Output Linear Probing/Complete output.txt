@@ -1,0 +1,227 @@
+>> Please enter the path of the file containing the list of words
+E:\UTD\2nd Sem\Data Structures & Algorithms CS 5343\Assignments\Assingment 06\SpellChecker HashTable\src\wordlist.txt
+
+>> Inserting list of words in hash table
+
+amritsar   Initial Index: 19   Linear Probing Index:19   Collisions: 0
+athanasy   Initial Index: 9   Linear Probing Index:9   Collisions: 0
+atheneum   Initial Index: 7   Linear Probing Index:7   Collisions: 0
+bagpipes   Initial Index: 48   Linear Probing Index:48   Collisions: 0
+bigamist   Initial Index: 0   Linear Probing Index:0   Collisions: 0
+billfish   Initial Index: 50   Linear Probing Index:50   Collisions: 0
+bothnian   Initial Index: 3   Linear Probing Index:3   Collisions: 0
+brahmani   Initial Index: 39   Linear Probing Index:39   Collisions: 0
+campeche   Initial Index: 27   Linear Probing Index:27   Collisions: 0
+catacomb   Initial Index: 31   Linear Probing Index:31   Collisions: 0
+cilician   Initial Index: 33   Linear Probing Index:33   Collisions: 0
+coltrane   Initial Index: 8   Linear Probing Index:8   Collisions: 0
+cuiab?   Initial Index: 25   Linear Probing Index:25   Collisions: 0
+curricle   Initial Index: 9   Linear Probing Index:10   Collisions: 1
+dementia   Initial Index: 44   Linear Probing Index:44   Collisions: 0
+doweries   Initial Index: 18   Linear Probing Index:18   Collisions: 0
+drumlier   Initial Index: 20   Linear Probing Index:20   Collisions: 0
+dumbhead   Initial Index: 31   Linear Probing Index:32   Collisions: 1
+duologue   Initial Index: 20   Linear Probing Index:21   Collisions: 1
+evensong   Initial Index: 21   Linear Probing Index:22   Collisions: 1
+exercise   Initial Index: 8   Linear Probing Index:11   Collisions: 3
+falconer   Initial Index: 47   Linear Probing Index:47   Collisions: 0
+figurate   Initial Index: 7   Linear Probing Index:12   Collisions: 5
+flagfish   Initial Index: 41   Linear Probing Index:41   Collisions: 0
+folksier   Initial Index: 15   Linear Probing Index:15   Collisions: 0
+frugging   Initial Index: 9   Linear Probing Index:13   Collisions: 4
+
+>> Load Factor became greater than 0.5 while inserting 27th word. Hash table size: 53. No. of elements currently in the table: 26
+>> New size of hash table after rehashing: 107
+
+amritsar   Initial Index: 11   Linear Probing Index:11   Collisions: 0
+athanasy   Initial Index: 1   Linear Probing Index:1   Collisions: 0
+atheneum   Initial Index: 106   Linear Probing Index:106   Collisions: 0
+bagpipes   Initial Index: 94   Linear Probing Index:94   Collisions: 0
+bigamist   Initial Index: 99   Linear Probing Index:99   Collisions: 0
+billfish   Initial Index: 96   Linear Probing Index:96   Collisions: 0
+bothnian   Initial Index: 102   Linear Probing Index:102   Collisions: 0
+brahmani   Initial Index: 85   Linear Probing Index:85   Collisions: 0
+campeche   Initial Index: 73   Linear Probing Index:73   Collisions: 0
+catacomb   Initial Index: 77   Linear Probing Index:77   Collisions: 0
+cilician   Initial Index: 79   Linear Probing Index:79   Collisions: 0
+coltrane   Initial Index: 0   Linear Probing Index:0   Collisions: 0
+cuiab?   Initial Index: 45   Linear Probing Index:45   Collisions: 0
+curricle   Initial Index: 1   Linear Probing Index:2   Collisions: 1
+dementia   Initial Index: 90   Linear Probing Index:90   Collisions: 0
+doweries   Initial Index: 10   Linear Probing Index:10   Collisions: 0
+drumlier   Initial Index: 12   Linear Probing Index:12   Collisions: 0
+dumbhead   Initial Index: 77   Linear Probing Index:78   Collisions: 1
+duologue   Initial Index: 12   Linear Probing Index:13   Collisions: 1
+evensong   Initial Index: 13   Linear Probing Index:14   Collisions: 1
+exercise   Initial Index: 0   Linear Probing Index:3   Collisions: 3
+falconer   Initial Index: 93   Linear Probing Index:93   Collisions: 0
+figurate   Initial Index: 106   Linear Probing Index:4   Collisions: 5
+flagfish   Initial Index: 87   Linear Probing Index:87   Collisions: 0
+folksier   Initial Index: 7   Linear Probing Index:7   Collisions: 0
+frugging   Initial Index: 1   Linear Probing Index:5   Collisions: 4
+gelibolu   Initial Index: 102   Linear Probing Index:103   Collisions: 1
+gossiped   Initial Index: 6   Linear Probing Index:6   Collisions: 0
+grimness   Initial Index: 16   Linear Probing Index:16   Collisions: 0
+griswold   Initial Index: 19   Linear Probing Index:19   Collisions: 0
+handless   Initial Index: 101   Linear Probing Index:101   Collisions: 0
+handlike   Initial Index: 83   Linear Probing Index:83   Collisions: 0
+ichthyol   Initial Index: 12   Linear Probing Index:15   Collisions: 3
+inequity   Initial Index: 32   Linear Probing Index:32   Collisions: 0
+jeremiah   Initial Index: 88   Linear Probing Index:88   Collisions: 0
+kaingang   Initial Index: 83   Linear Probing Index:84   Collisions: 1
+kurtosis   Initial Index: 44   Linear Probing Index:44   Collisions: 0
+lampyrid   Initial Index: 10   Linear Probing Index:17   Collisions: 7
+leesburg   Initial Index: 1   Linear Probing Index:8   Collisions: 7
+luscious   Initial Index: 31   Linear Probing Index:31   Collisions: 0
+luxating   Initial Index: 20   Linear Probing Index:20   Collisions: 0
+macropia   Initial Index: 95   Linear Probing Index:95   Collisions: 0
+mahamaya   Initial Index: 82   Linear Probing Index:82   Collisions: 0
+mannikin   Initial Index: 104   Linear Probing Index:104   Collisions: 0
+maturity   Initial Index: 39   Linear Probing Index:39   Collisions: 0
+melchers   Initial Index: 102   Linear Probing Index:105   Collisions: 3
+melodize   Initial Index: 1   Linear Probing Index:9   Collisions: 8
+monopode   Initial Index: 9   Linear Probing Index:18   Collisions: 9
+nabalite   Initial Index: 83   Linear Probing Index:86   Collisions: 3
+nerviest   Initial Index: 24   Linear Probing Index:24   Collisions: 0
+oblongly   Initial Index: 14   Linear Probing Index:21   Collisions: 7
+outcavil   Initial Index: 15   Linear Probing Index:22   Collisions: 7
+outdoors   Initial Index: 39   Linear Probing Index:40   Collisions: 1
+
+>> Load Factor became greater than 0.5 while inserting 54th word. Hash table size: 107. No. of elements currently in the table: 53
+>> New size of hash table after rehashing: 223
+
+amritsar   Initial Index: 198   Linear Probing Index:198   Collisions: 0
+athanasy   Initial Index: 188   Linear Probing Index:188   Collisions: 0
+atheneum   Initial Index: 186   Linear Probing Index:186   Collisions: 0
+bagpipes   Initial Index: 174   Linear Probing Index:174   Collisions: 0
+bigamist   Initial Index: 179   Linear Probing Index:179   Collisions: 0
+billfish   Initial Index: 176   Linear Probing Index:176   Collisions: 0
+bothnian   Initial Index: 182   Linear Probing Index:182   Collisions: 0
+brahmani   Initial Index: 165   Linear Probing Index:165   Collisions: 0
+campeche   Initial Index: 153   Linear Probing Index:153   Collisions: 0
+catacomb   Initial Index: 157   Linear Probing Index:157   Collisions: 0
+cilician   Initial Index: 159   Linear Probing Index:159   Collisions: 0
+coltrane   Initial Index: 187   Linear Probing Index:187   Collisions: 0
+cuiab?   Initial Index: 172   Linear Probing Index:172   Collisions: 0
+curricle   Initial Index: 188   Linear Probing Index:189   Collisions: 1
+dementia   Initial Index: 170   Linear Probing Index:170   Collisions: 0
+doweries   Initial Index: 197   Linear Probing Index:197   Collisions: 0
+drumlier   Initial Index: 199   Linear Probing Index:199   Collisions: 0
+dumbhead   Initial Index: 157   Linear Probing Index:158   Collisions: 1
+duologue   Initial Index: 199   Linear Probing Index:200   Collisions: 1
+evensong   Initial Index: 200   Linear Probing Index:201   Collisions: 1
+exercise   Initial Index: 187   Linear Probing Index:190   Collisions: 3
+falconer   Initial Index: 173   Linear Probing Index:173   Collisions: 0
+figurate   Initial Index: 186   Linear Probing Index:191   Collisions: 5
+flagfish   Initial Index: 167   Linear Probing Index:167   Collisions: 0
+folksier   Initial Index: 194   Linear Probing Index:194   Collisions: 0
+frugging   Initial Index: 188   Linear Probing Index:192   Collisions: 4
+gelibolu   Initial Index: 182   Linear Probing Index:183   Collisions: 1
+gossiped   Initial Index: 193   Linear Probing Index:193   Collisions: 0
+grimness   Initial Index: 203   Linear Probing Index:203   Collisions: 0
+griswold   Initial Index: 206   Linear Probing Index:206   Collisions: 0
+handless   Initial Index: 181   Linear Probing Index:181   Collisions: 0
+handlike   Initial Index: 163   Linear Probing Index:163   Collisions: 0
+ichthyol   Initial Index: 199   Linear Probing Index:202   Collisions: 3
+inequity   Initial Index: 219   Linear Probing Index:219   Collisions: 0
+jeremiah   Initial Index: 168   Linear Probing Index:168   Collisions: 0
+kaingang   Initial Index: 163   Linear Probing Index:164   Collisions: 1
+kurtosis   Initial Index: 8   Linear Probing Index:8   Collisions: 0
+lampyrid   Initial Index: 197   Linear Probing Index:204   Collisions: 7
+leesburg   Initial Index: 188   Linear Probing Index:195   Collisions: 7
+luscious   Initial Index: 218   Linear Probing Index:218   Collisions: 0
+luxating   Initial Index: 207   Linear Probing Index:207   Collisions: 0
+macropia   Initial Index: 175   Linear Probing Index:175   Collisions: 0
+mahamaya   Initial Index: 162   Linear Probing Index:162   Collisions: 0
+mannikin   Initial Index: 184   Linear Probing Index:184   Collisions: 0
+maturity   Initial Index: 3   Linear Probing Index:3   Collisions: 0
+melchers   Initial Index: 182   Linear Probing Index:185   Collisions: 3
+melodize   Initial Index: 188   Linear Probing Index:196   Collisions: 8
+monopode   Initial Index: 196   Linear Probing Index:205   Collisions: 9
+nabalite   Initial Index: 163   Linear Probing Index:166   Collisions: 3
+nerviest   Initial Index: 211   Linear Probing Index:211   Collisions: 0
+oblongly   Initial Index: 201   Linear Probing Index:208   Collisions: 7
+outcavil   Initial Index: 202   Linear Probing Index:209   Collisions: 7
+outdoors   Initial Index: 3   Linear Probing Index:4   Collisions: 1
+outhumor   Initial Index: 7   Linear Probing Index:7   Collisions: 0
+outvoice   Initial Index: 209   Linear Probing Index:210   Collisions: 1
+overleaf   Initial Index: 183   Linear Probing Index:212   Collisions: 29
+partying   Initial Index: 209   Linear Probing Index:213   Collisions: 4
+pelerine   Initial Index: 183   Linear Probing Index:214   Collisions: 31
+phaethon   Initial Index: 186   Linear Probing Index:215   Collisions: 29
+pharmacy   Initial Index: 184   Linear Probing Index:216   Collisions: 32
+pickiest   Initial Index: 191   Linear Probing Index:217   Collisions: 26
+pilaster   Initial Index: 199   Linear Probing Index:220   Collisions: 21
+playbill   Initial Index: 188   Linear Probing Index:221   Collisions: 33
+plotless   Initial Index: 217   Linear Probing Index:222   Collisions: 5
+popsicle   Initial Index: 194   Linear Probing Index:0   Collisions: 29
+portrait   Initial Index: 216   Linear Probing Index:1   Collisions: 8
+preerect   Initial Index: 189   Linear Probing Index:2   Collisions: 36
+puncture   Initial Index: 217   Linear Probing Index:5   Collisions: 11
+puniness   Initial Index: 216   Linear Probing Index:6   Collisions: 13
+pyrenean   Initial Index: 197   Linear Probing Index:9   Collisions: 35
+rammohun   Initial Index: 202   Linear Probing Index:10   Collisions: 31
+regional   Initial Index: 180   Linear Probing Index:180   Collisions: 0
+response   Initial Index: 210   Linear Probing Index:11   Collisions: 24
+rufflike   Initial Index: 187   Linear Probing Index:12   Collisions: 48
+saguenay   Initial Index: 192   Linear Probing Index:13   Collisions: 44
+sandarac   Initial Index: 160   Linear Probing Index:160   Collisions: 0
+scrubbed   Initial Index: 173   Linear Probing Index:177   Collisions: 4
+severest   Initial Index: 212   Linear Probing Index:14   Collisions: 25
+shochets   Initial Index: 196   Linear Probing Index:15   Collisions: 42
+shocking   Initial Index: 185   Linear Probing Index:16   Collisions: 54
+sissyish   Initial Index: 3   Linear Probing Index:17   Collisions: 14
+sneakers   Initial Index: 191   Linear Probing Index:18   Collisions: 50
+somerset   Initial Index: 213   Linear Probing Index:19   Collisions: 29
+staybolt   Initial Index: 213   Linear Probing Index:20   Collisions: 30
+stendhal   Initial Index: 182   Linear Probing Index:21   Collisions: 62
+suddenly   Initial Index: 203   Linear Probing Index:22   Collisions: 42
+tamarisk   Initial Index: 191   Linear Probing Index:23   Collisions: 55
+thearchy   Initial Index: 187   Linear Probing Index:24   Collisions: 60
+titanite   Initial Index: 197   Linear Probing Index:25   Collisions: 51
+trickily   Initial Index: 206   Linear Probing Index:26   Collisions: 43
+unequine   Initial Index: 205   Linear Probing Index:27   Collisions: 45
+unfitted   Initial Index: 198   Linear Probing Index:28   Collisions: 53
+unmissed   Initial Index: 203   Linear Probing Index:29   Collisions: 49
+unrammed   Initial Index: 188   Linear Probing Index:30   Collisions: 65
+unshored   Initial Index: 203   Linear Probing Index:31   Collisions: 51
+urbanize   Initial Index: 195   Linear Probing Index:32   Collisions: 60
+velocity   Initial Index: 210   Linear Probing Index:33   Collisions: 46
+vichyite   Initial Index: 200   Linear Probing Index:34   Collisions: 57
+villadom   Initial Index: 187   Linear Probing Index:35   Collisions: 71
+wailsome   Initial Index: 196   Linear Probing Index:36   Collisions: 63
+
+>> Adding more 10 words to the hashtable 
+
+imperfect   Initial Index: 67   Linear Probing Index:67   Collisions: 0
+stiff   Initial Index: 94   Linear Probing Index:94   Collisions: 0
+contain   Initial Index: 79   Linear Probing Index:79   Collisions: 0
+mark   Initial Index: 204   Linear Probing Index:37   Collisions: 56
+stimulating   Initial Index: 86   Linear Probing Index:86   Collisions: 0
+secret   Initial Index: 200   Linear Probing Index:38   Collisions: 61
+ubiquitous   Initial Index: 222   Linear Probing Index:39   Collisions: 40
+stupendous   Initial Index: 222   Linear Probing Index:40   Collisions: 41
+caring   Initial Index: 182   Linear Probing Index:41   Collisions: 82
+ugliest   Initial Index: 96   Linear Probing Index:96   Collisions: 0
+permit   Initial Index: 211   Linear Probing Index:42   Collisions: 54
+
+>> Please enter the word to be searched. To quit type: quit()
+permit
+>> Word found. Index of the word permit : 42
+
+>> Please enter the word to be searched. To quit type: quit()
+wailsome
+>> Word found. Index of the word wailsome : 36
+
+>> Please enter the word to be searched. To quit type: quit()
+amritsar
+>> Word found. Index of the word amritsar : 198
+
+>> Please enter the word to be searched. To quit type: quit()
+xzwfwas
+>> The word xzwfwas is not present in the hashtable
+
+>> Please enter the word to be searched. To quit type: quit()
+quit()
+
+Process finished with exit code 0
